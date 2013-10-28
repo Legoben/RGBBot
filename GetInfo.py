@@ -40,4 +40,4 @@ while(True):
     else:
         print "Color ("+ currentcolor +") did not change... Skipping."
     
-    sleep(0.75) #Change to lower/higher to change strain on the server
+    #sleep(0.75) #Change to lower/higher to change strain on the server
