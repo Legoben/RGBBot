@@ -31,7 +31,7 @@ ser = connectToArduino()
 #Constantly pull from text file to see if the color has changed.
 #If it has changed, run changeColor
 while(True):
-    thiscolor = urlopen("http://lab.helloben.co/RGBBot/file.txt") #Replace with URL of where file is located. It is on my server, in this case.
+    thiscolor = urlopen("http://lab.helloben.co/rgbbot/file.txt") #Replace with URL of where file is located. It is on my server, in this case.
     c = str(thiscolor.read())
     
     if currentcolor != c:
