@@ -11,5 +11,3 @@ How it works:
 
 ![Diagram](http://25.media.tumblr.com/ef3efde8951830a5785dcc8249dc9d52/tumblr_mvhpb753Ly1rzvzy0o1_500.png)
 
-How to set it up:
---------
